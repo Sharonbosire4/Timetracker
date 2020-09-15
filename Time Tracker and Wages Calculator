@@ -1,13 +1,5 @@
 # Timetracker
 
 The timetracker program  calculates the wages of a user when they enter their start date,time of the project and end data,time.
-
-#How it works.
-
-The program is created to accept input from users
-the inputs are in datetime format
-the estimated start datetime and end datetime of developing a project
-the program will compute for the hours spent on a project
-the program compute the wages based on hours spent
-the program then displays the hours and wages to the user
-the records are then save in csv file as backup
+How it works.
+The program is created to accept input from users the inputs are in datetime format the estimated start datetime and end datetime of developing a project. The program will compute for the hours spent on a project, the program compute the wages based on hours spent the program then displays the hours and wages to the user the records are then save in csv file as backup
